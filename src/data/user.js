@@ -9,4 +9,12 @@ const user = {
   },
 };
 
-export default user;
+export const name = "Liza";
+export const city = "New York";
+export const color = "firebrick";
+export const bio = "I made this!";
+export const links = {
+  github: "https://github.com/liza",
+  linkedin: "https://www.linkedin.com/in/liza/"
+};
+
